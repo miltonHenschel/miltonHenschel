@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Henschel NKETCHOGUE M.</h1>
-<h3 align="center">A full stack web development Microverse student from Cameroon</h3>
+<h3>Hi 👋, I'm Henschel NKETCHOGUE M.</h1>
+<h3>A full stack web development Microverse student from Cameroon</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
