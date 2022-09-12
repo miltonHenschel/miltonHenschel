@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **arduino, c, html, css**
 
-- 📫 How to reach me **nketchoguemilton@gmail.com**
+- 📫 How to reach me: **nketchoguemilton@gmail.com**
 
-- ⚡ Fun fact **Two bytes meet. The first byte asks: “Are you ill?” The second byte replies: “No, just feeling a bit off.”**
+- ⚡ Fun fact: **Two bytes meet. The first byte asks: “Are you ill?” The second byte replies: “No, just feeling a bit off.”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
