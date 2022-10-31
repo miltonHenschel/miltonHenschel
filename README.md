@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/miltonHenschel](https://github.com/miltonHenschel)
+- 👨‍💻 All of my projects are available at https://github.com/miltonHenschel?tab=repositories
 
 - 💬 Ask me about **arduino, c, html, css**
 
