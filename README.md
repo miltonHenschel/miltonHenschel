@@ -1,7 +1,9 @@
 <h3>Hi 👋, I'm Henschel NKETCHOGUE M.</h1>
 <h3>A full stack web development Microverse student from Cameroon</h3>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **HTML5 with CCS3**
+
+- 🌱 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at https://github.com/miltonHenschel?tab=repositories
 
