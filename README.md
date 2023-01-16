@@ -31,12 +31,12 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/miltonhenschel"><img src="https://github-readme-stats.vercel.app/api?username=miltonhenschel&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="miltonhenschel's GitHub stats" /></a>
+<a href="http://www.github.com/miltonhenschel"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=miltonhenschel&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="miltonhenschel's GitHub stats" /></a>
 
 <a href="http://www.github.com/miltonhenschel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=miltonhenschel&stroke=ffffff&background=1e3a8a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/miltonhenschel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltonhenschel&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/miltonhenschel" align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miltonhenschel&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/miltonhenschel/myPortfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=miltonhenschel&repo=myPortfolio&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en" /></a><a href="https://github.com/miltonhenschel/Conference-Page" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=miltonhenschel&repo=Conference-Page&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/miltonhenschel/myPortfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=miltonhenschel&repo=myPortfolio&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en" /></a><a href="https://github.com/miltonhenschel/Conference-Page" align="right"><img align="right" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=miltonhenschel&repo=Conference-Page&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
