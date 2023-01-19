@@ -4,27 +4,14 @@
 
 <h2>Front-End Web Developer</h2>
 
- <table>
-   <tr>
-     <td>- 🌍  I'm based in Yaoundé, Cameroon</td>
-     <td rowspan=6 width="40%"><img width=100% src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></td>
-   </tr>
-   <tr>
-      <td>- 🖥️  See my portfolio at <a href="http://miltonhenschel.github.io/myPortfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a></td>
-   </tr>
-   <tr>
-      <td>- ✉️  You can contact me at <a href="mailto:nkechoguemilton@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
-   </tr>
-   <tr>
-      <td>- 🧠  I'm learning JavaScript and React</td>
-   </tr>
-   <tr>
-      <td>- 🤝  I'm open to collaborating on Front-end projects.</td>
-   </tr>
-   <tr>
-      <td>- ⚡  I love cycling and playing the piano. I'm also a gamer.</td>
-   </tr>
-</table>
+<img align="right" alt="Coding" width=30% src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+
+- 🌍  I'm based in Yaoundé, Cameroon
+- 🖥️  See my portfolio at <a href="http://miltonhenschel.github.io/myPortfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
+ - ✉️  You can contact me at <a href="mailto:nkechoguemilton@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ - 🧠  I'm learning JavaScript and React
+ - 🤝  I'm open to collaborating on Front-end projects
+ - ⚡  I love cycling and playing the piano; I'm also a gamer
 
 ### Languages
 
