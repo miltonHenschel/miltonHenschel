@@ -7,11 +7,13 @@
 <img align="right" alt="Coding" width=30% src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
 - 🌍  I'm based in Yaoundé, Cameroon
-- 🖥️  See my portfolio at <a href="http://miltonhenschel.github.io/myPortfolio/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
- - ✉️  You can contact me at <a href="mailto:nkechoguemilton@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- - 🧠  I'm learning JavaScript and React
+- 🖥️  See my portfolio at [https://miltonhenschel.github.io/myPortfolio/](https://miltonhenschel.github.io/myPortfolio/)
+ - ✉️  You can contact me at [nkechoguemilton@gmail.com](mailto:nkechoguemilton@gmail.com)
+ - 🧠  I'm learning vanilla JavaScript
  - 🤝  I'm open to collaborating on Front-end projects
- - ⚡  I love cycling and playing the piano; I'm also a gamer
+ - ⚡  I love gaming, cycling and playing the piano
+
+<hr />
 
 ### Languages
 
@@ -75,20 +77,12 @@
 <!--   <a href=""><img src="" /></a> -->
 </p>
 
-### Badges
+<hr />
 
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
-<a href="http://www.github.com/miltonhenschel"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=miltonhenschel&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="miltonhenschel's GitHub stats" /></a>
-
-<a href="http://www.github.com/miltonhenschel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=miltonhenschel&stroke=ffffff&background=1e3a8a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/miltonhenschel" align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miltonhenschel&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img width=33% src="https://github-readme-stats-sigma-five.vercel.app/api?username=miltonhenschel&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="miltonhenschel's GitHub stats" />&nbsp;<img width=33% src="https://github-readme-streak-stats.herokuapp.com/?user=miltonhenschel&stroke=ffffff&background=1e3a8a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />&nbsp;<img width=33% heigth=50 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miltonhenschel&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 
 <b>Visitors Count</b>
 
 <img src="https://profile-counter.glitch.me/{miltonhenschel}/count.svg" />
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/miltonhenschel/myPortfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=miltonhenschel&repo=myPortfolio&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en" /></a><a href="https://github.com/miltonhenschel/Conference-Page" align="right"><img align="right" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=miltonhenschel&repo=Conference-Page&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
