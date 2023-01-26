@@ -17,7 +17,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&repeat=false&center=true&vCenter=true&width=1500&lines=You+can+contact+me+at+nkechoguemilton%40gmail.com." />
  </a>
 </p>
- 
+
+<p align="middle">
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</p>
+
 <hr />
 
 # Skills
