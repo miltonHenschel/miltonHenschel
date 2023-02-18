@@ -1,3 +1,5 @@
+# <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=3% /> About me
+
 <p align="middle">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=750&lines=Hey%2C+there+%F0%9F%91%8B;I'm+called+Henschel+NKETCHOGUE+M.;Nice+to+meet+you!" />
 </p>
@@ -24,7 +26,7 @@
 
 <hr />
 
-# Skills
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=3% /> Skills
 
 <!-- <p align="right"> -->
   <img align="right" alt="Coding" width=40% src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
@@ -38,22 +40,6 @@
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
-### Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
-</p>
-
-### Backend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
 
 ### Database
 <p align="left">
@@ -89,7 +75,7 @@
 <!--   <img src="" /> -->
 </p>
 
-# Socials
+# <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=7.5% /> Socials
 
 <p align="left"> 
   <div>
@@ -109,15 +95,16 @@
 
 <hr />
 
-# My GitHub Stats
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=3% /> My GitHub Stats
 
 <img width=49% src="https://github-readme-stats.vercel.app/api?username=miltonhenschel&show_icons=true&count_private=true&theme=vue" alt="miltonhenschel's GitHub stats" />&nbsp;
 <img width=49% src="https://streak-stats.demolab.com/?user=miltonhenschel&show_icons=true&count_private=true&theme=vue" alt="miltonhenschel's GitHub Streak" />
 
-<img width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltonhenschel&layout=compact&show_icons=true&count_private=true&theme=vue" />
+<img width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltonhenschel&layout=compact&show_icons=true&count_private=true&theme=vue" />&nbsp;
+<img width=49% src="https://github-readme-activity-graph.cyclic.app/graph?username=miltonHenschel&layout=compact&show_icons=true&count_private=true&theme=vue" alt="GitHub Stats" />
 
 <p align="middle">
-  Thanks for visiting me! Until next time.
+  Visitor's count 👀
   <br />
   <img align="middle" src="https://profile-counter.glitch.me/{miltonhenschel}/count.svg" />
 </p>
