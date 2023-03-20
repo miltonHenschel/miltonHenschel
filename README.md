@@ -1,8 +1,5 @@
 # <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=3% /> About me
-
-<p align="middle">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=750&lines=Hey%2C+there+%F0%9F%91%8B;I'm+called+Henschel+NKETCHOGUE+M.;Nice+to+meet+you!" />
-</p>
+![linkedIn cover pg](https://user-images.githubusercontent.com/87370519/226490186-982e25c2-a5cd-4e9c-a362-ee8d0d2207d3.gif)
 
 <p align="middle">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&multiline=true&height=175&size=25&pause=1000&center=true&vCenter=true&width=1000&lines=I'm+a+full+stack+web+developer.;+I'm+based+in+Yaound%C3%A9%2C+Cameroon.;I'm+currently+learning+vanilla+JavaScript.;I'm+open+to+collaborating+on+Front-end+projects.;I+love+gaming%2C+cycling+and+playing+the+piano." />
