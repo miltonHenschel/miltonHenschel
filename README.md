@@ -1,6 +1,7 @@
 # <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=3% /> About me
 ![linkedIn cover pg](https://user-images.githubusercontent.com/87370519/226490186-982e25c2-a5cd-4e9c-a362-ee8d0d2207d3.gif)
 
+<!--
 <p align="middle">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&multiline=true&height=175&size=25&pause=1000&center=true&vCenter=true&width=1000&lines=I'm+a+full+stack+web+developer.;+I'm+based+in+Yaound%C3%A9%2C+Cameroon.;I'm+currently+learning+vanilla+JavaScript.;I'm+open+to+collaborating+on+Front-end+projects.;I+love+gaming%2C+cycling+and+playing+the+piano." />
 </p>
@@ -20,6 +21,15 @@
 <p align="middle">
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 </p>
+-->
+
+I've spent the last several months completely immersed in remote development, building everything from landing pages to single page applications using HTML, CSS and vanilla JavaScript. Before transitioning into software development I worked as a Computer Science Teacher for a couple of years, teaching secondary school students coding in the C language. This taught me skills like problem-solving, effective communication, multi-tasking, and more. During the last several months, I have been working on a number of projects: my portfolio, matching a page to a Figma template, landing pages, and a modular, single-page web app to manage a collection of books. Being in the top 4% of active GitHub users in my country is something that I'm really proud of.
+
+* 🌍  I'm based in Yaoundé, Cameroon
+* 🖥️  See my portfolio at [GitHub](http://miltonhenschel.github.io/myPortfolio/)
+* ✉️  You can contact me at [nketchoguemilton@gmail.com](mailto:nketchoguemilton@gmail.com)
+* 🧠  I'm learning ReactJS with Redux
+* 🤝  I'm open to collaborating on JavaScript, React with Redux projects
 
 <hr />
 
@@ -101,11 +111,10 @@
   <div>
    <a href="https://www.github.com/miltonhenschel"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
    <a href="mailto:nkechoguemilton@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-   <a href="https://www.linkedin.com/in/henschelnketchoguem/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+   <a href="https://www.linkedin.com/in/miltonhenschel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
     <a href="http://wa.me/237653555688"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
     <a href="https://t.me/+237653555688"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     <a href="https://www.twitter.com/nketchogue"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-    <a href="http://www.instagram.com/mpatchiehenschel"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
     <a href="mailto:nkechoguemiltonh@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
     <a href="http://www.medium.com/@nketchoguemilton"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
   </div> 
