@@ -1,107 +1,68 @@
 # <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=3% /> About me
 ![linkedIn cover pg](https://user-images.githubusercontent.com/87370519/226490186-982e25c2-a5cd-4e9c-a362-ee8d0d2207d3.gif)
 
-<!--
-<p align="middle">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&multiline=true&height=175&size=25&pause=1000&center=true&vCenter=true&width=1000&lines=I'm+a+full+stack+web+developer.;+I'm+based+in+Yaound%C3%A9%2C+Cameroon.;I'm+currently+learning+vanilla+JavaScript.;I'm+open+to+collaborating+on+Front-end+projects.;I+love+gaming%2C+cycling+and+playing+the+piano." />
-</p>
-
-<p align="middle">
- <a href="https://miltonhenschel.github.io/myPortfolio/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&repeat=false&pause=1000&center=true&vCenter=true&width=1500&lines=See+my+portfolio+at+https%3A%2F%2Fmiltonhenschel.github.io%2FmyPortfolio%2F" />
- </a>
-</p>
-
-<p align="middle">
- <a href="mailto:nkechoguemilton@gmail.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&repeat=false&center=true&vCenter=true&width=1500&lines=You+can+contact+me+at+nkechoguemilton%40gmail.com." />
- </a>
-</p>
-
-<p align="middle">
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-</p>
--->
-
 I've spent the last several months completely immersed in remote development, building everything from landing pages to single page applications using HTML, CSS and vanilla JavaScript. Before transitioning into software development I worked as a Computer Science Teacher for a couple of years, teaching secondary school students coding in the C language. This taught me skills like problem-solving, effective communication, multi-tasking, and more. During the last several months, I have been working on a number of projects: my portfolio, matching a page to a Figma template, landing pages, and a modular, single-page web app to manage a collection of books. Being in the top 4% of active GitHub users in my country is something that I'm really proud of.
 
-* 🌍  I'm based in Yaoundé, Cameroon
+<img align="right" alt="Coding" width=30% src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+
+<p align="left">
+ 
+* 🌍  I'm based in [Yaoundé, Cameroon](https://www.google.com/maps/place/Carrefour+Awae+escalier/@3.8293333,11.5506276,17z/data=!4m14!1m7!3m6!1s0x108bc5373b5a735d:0xe1fd896efe1943a5!2sCarrefour+Awae+Concorde!8m2!3d3.8355689!4d11.5521511!16s%2Fg%2F11cs01f8vz!3m5!1s0x108bc59f9eb525c7:0xc6e57c4530c1ee36!8m2!3d3.8303637!4d11.5515929!16s%2Fg%2F11h5w52dw0)
 * 🖥️  See my portfolio at [GitHub](http://miltonhenschel.github.io/myPortfolio/)
 * ✉️  You can contact me at [nketchoguemilton@gmail.com](mailto:nketchoguemilton@gmail.com)
-* 🧠  I'm learning ReactJS with Redux
-* 🤝  I'm open to collaborating on JavaScript, React with Redux projects
+* 🧠  I'm currently learning [Ruby](https://www.ruby-lang.org/en/) and [RoR](https://rubyonrails.org/)
+* 🤝  I'm open to collaborating on any Frontend projects especially with [ReactJS](https://react.dev/) and [Redux](https://redux.js.org/)
+
+</p>
 
 <hr />
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=3% /> Skills
 
 <!-- <p align="right"> -->
-  <img align="right" alt="Coding" width=40% src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 <!-- </p> -->
 
-### Programming Languages, Libraries and others
+### Frontend
 <p align="left">
- <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
  <img src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black" />
+ <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
- <img src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white" />
  <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" />
- <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?style=for-the-badge&logo=Windows-Terminal&logoColor=white" />
- <img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" />
- <img src="https://img.shields.io/badge/Babel-F9DC3E.svg?style=for-the-badge&logo=Babel&logoColor=black" />
- <img src="https://img.shields.io/badge/webhint-4700A3.svg?style=for-the-badge&logo=webhint&logoColor=white" />
- <img src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white" />
- <img src="https://img.shields.io/badge/stylelint-263238.svg?style=for-the-badge&logo=stylelint&logoColor=white" />
  <img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white" />
- <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
 <!--  <img src="" /> -->
 </p>
 
-
-### Database
+<!--
+### Backend
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />
+  <img src="" />
+  <img src="" />
 </p>
+-->
 
-<!-- ### Framework
-<p align="left">
-  <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-</p> -->
-
-### Version Control
-<p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-### Hosting
-<p align="left">
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=Render&logoColor=white" />
-</p>
-
-### Testing
+### Testing and Hosting
 <p align="left">
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
  <img src="https://img.shields.io/badge/Testing%20Library-E33332.svg?style=for-the-badge&logo=Testing-Library&logoColor=white" />
+ <img src="https://img.shields.io/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=Vitest&logoColor=white" />     
+  <img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=Render&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white" />
 </p>
 
-### Softwares
+### Softwares and Tools
 <p align="left">
+ <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Brave-FB542B.svg?style=for-the-badge&logo=Brave&logoColor=white" />
  <img src="https://img.shields.io/badge/Grammarly-15C39A.svg?style=for-the-badge&logo=Grammarly&logoColor=white" /></a>
  <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white" /></a>
+ <img src="https://img.shields.io/badge/Zoom-2D8CFF.svg?style=for-the-badge&logo=Zoom&logoColor=white" /></a>
 <!--  <img src="" /></a> -->
 </p>
 
@@ -109,15 +70,14 @@ I've spent the last several months completely immersed in remote development, bu
 
 <p align="left"> 
   <div>
-   <a href="https://www.github.com/miltonhenschel"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
    <a href="mailto:nkechoguemilton@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
    <a href="https://www.linkedin.com/in/miltonhenschel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+   <a href="https://www.twitter.com/nketchogue"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+    <a href="http://www.medium.com/@nketchoguemilton"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
     <a href="http://wa.me/237653555688"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
     <a href="https://t.me/+237653555688"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-    <a href="https://www.twitter.com/nketchogue"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-    <a href="mailto:nkechoguemiltonh@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-    <a href="http://www.medium.com/@nketchoguemilton"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  </div> 
+ <a href="https://www.github.com/miltonhenschel"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>  
+</div> 
 <!--   <a href=""><img src="" /></a> -->
 </p>
 
